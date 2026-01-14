@@ -207,6 +207,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - 6b3293cac537125aff59993507601e6c.txt
 
 # Plug-ins
 plugins:
